@@ -6,8 +6,8 @@ title: System Software for Post Petascale Data Intensive Science
 * PI: Osamu Tatebe (University of Tsukuba)
 * Sub-PI: Yoshihiro Oyama (University of Tsukuba)
 
-![Research highlight](https://youtu.be/XvcKs-c9nA8)
-
+[Research highlight](https://youtu.be/XvcKs-c9nA8)
+<iframe width="220" height="124" src="https://www.youtube.com/embed/XvcKs-c9nA8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Welcome to GitHub Pages
 
