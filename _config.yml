@@ -3,4 +3,4 @@ theme: jekyll-theme-cayman
 title: System Software for Post Petascale Data Intensive Science
 
 github:
-is_project_page: false
+  is_project_page: false
